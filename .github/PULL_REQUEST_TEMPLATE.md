@@ -40,4 +40,4 @@ I'm suggesting these edits to an existing topic or collection:
 
 ---------------------------------------------------------------------
 
-**Please note: we will close your PR without comment if you do not check the boxes above and provide ALL requested information.**
+**Note: we will close your PR without comment if you do not check the boxes above and provide ALL requested information.**
